@@ -79,6 +79,13 @@ and (min-width : 600px) {
     font-family: 'Great Vibes', Georgia, serif;
     font-size: calc(5px + 4vw);
 }
+.exceptionalDiv {
+    width: 100%;
+    text-align: center;
+    font-family: 'Alegreya', Georgia, serif;
+	font-style: italic;
+    font-size: calc(5px + 3vw);
+}
 #topgap {
     height: 50vw;
 }
@@ -131,6 +138,19 @@ and (max-width : 601px) {
     text-align: center;
     font-family: 'Great Vibes', Georgia, serif;
     font-size: 170%;
+}
+.exceptionalSpan {
+    padding-left: 1%;
+    padding-right: 1%;
+    color: white;
+    text-shadow: 4px 4px 10px black;
+}
+.exceptionalDiv {
+    width: 100%;
+    text-align: center;
+    font-family: 'Alegreya', Georgia, serif;
+    font-size: calc(5px + 3vw);
+	font-style: italic;
 }
 .title {
     width: 100%;
@@ -196,6 +216,12 @@ p {
 }
 
 .pagetitlespan {
+    padding-left: 1%;
+    padding-right: 1%;
+    color: white;
+    text-shadow: 4px 4px 10px black;
+}
+.exceptionalSpan {
     padding-left: 1%;
     padding-right: 1%;
     color: white;
