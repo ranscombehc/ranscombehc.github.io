@@ -82,9 +82,9 @@ and (min-width : 600px) {
 .exceptionalDiv {
     width: 100%;
     text-align: center;
-    font-family: 'Alegreya', Georgia, serif;
-	font-style: italic;
+    font-family: 'Great Vibes', Georgia, serif;
     font-size: calc(5px + 3vw);
+	color: white;
 }
 #topgap {
     height: 50vw;
@@ -142,15 +142,14 @@ and (max-width : 601px) {
 .exceptionalSpan {
     padding-left: 1%;
     padding-right: 1%;
-    color: white;
     text-shadow: 4px 4px 10px black;
 }
 .exceptionalDiv {
     width: 100%;
     text-align: center;
-    font-family: 'Alegreya', Georgia, serif;
+    font-family: 'Great Vibes', Georgia, serif;
     font-size: calc(5px + 3vw);
-	font-style: italic;
+	color: white;
 }
 .title {
     width: 100%;
@@ -224,7 +223,6 @@ p {
 .exceptionalSpan {
     padding-left: 1%;
     padding-right: 1%;
-    color: white;
     text-shadow: 4px 4px 10px black;
 }
 
