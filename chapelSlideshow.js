@@ -4,9 +4,9 @@ var curIndex = 0,
     slides = slider.childNodes;
     imgArray = [
         'chapelTop/7livingArea.jpeg',
-	    'chapelTop/5overview.jpeg',
-        'chapelTop/6kitchenIsland.jpeg',
         'chapelTop/1viewFromPond.jpeg',
+        'chapelTop/6kitchenIsland.jpeg',
+	    'chapelTop/5overview.jpeg',
         'chapelTop/2bothWindows.jpeg',
         'chapelTop/3viewOverLawn.jpeg',
         'chapelTop/4viewFromParterre.jpeg']
